@@ -2,7 +2,6 @@
 
 
 #### - 🖥️  Entusiasta no setor Server-Side <br>
-#### - 👨‍🎓  Atualmente estou estudando .net <br>
 #### - 🎮  Gosto de alguns joguinhos de forma esporádica <br>
 #### - 🎼 Escuto Lo-fi frequentemente <br>
 #### - 🇧🇷  Salvador, Bahia <br>
